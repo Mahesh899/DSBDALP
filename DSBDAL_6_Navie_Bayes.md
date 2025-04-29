@@ -1,3 +1,7 @@
+# Naive Bays
+
+Dataset Link: [diabetes.csv](https://github.com/Mahesh899/DSBDALP/blob/main/diabetes.csv)
+
 ```python
 import pandas as pd
 import numpy as np

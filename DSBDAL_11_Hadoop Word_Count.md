@@ -1,4 +1,4 @@
-# Hadoop Word Count Program
+# Hadoop Word Count Program:
 
 ## Open Command Prompt as Administrator
 

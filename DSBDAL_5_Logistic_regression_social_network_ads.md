@@ -1,5 +1,7 @@
 # Logistic Regression for Social Network Ads Classification
 
+Dataset Link: [social_network_ads.csv](https://github.com/Mahesh899/DSBDALP/blob/main/social_network_ads.csv)
+
 ## Data Loading and Exploration
 
 First, we import necessary libraries and load the dataset:

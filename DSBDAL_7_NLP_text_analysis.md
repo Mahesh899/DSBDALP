@@ -1,7 +1,5 @@
 # Text Mining and NLP Techniques
 
-This notebook demonstrates various text mining and Natural Language Processing (NLP) techniques using Python's NLTK library.
-
 ## Installation and Setup
 
 ```python
